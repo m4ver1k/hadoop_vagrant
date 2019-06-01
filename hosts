@@ -1,0 +1,14 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+::1             localhost
+
+
+#AMBARI Cluster Host Entry
+192.168.83.10 cluster-master.local
+192.168.83.11 cluster-worker-1.local
+192.168.83.12 cluster-worker-2.local
